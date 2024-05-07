@@ -18,10 +18,16 @@ mit klaren Befehlen und Rückmeldungen.
 * Tipp: Stellt euch die was der Benutzer machen könnte wie kann ich das verhindern? 
 Unerwartete eingaban etc.
 
+* Empfohlene Libaries:
+  * Readline
+  * fs
+  * path 
+
 ### **Bouns**: 
 * Der Benutzer soll mit einem Befehl Inhalte von Files displayen können
 * Der Benutzer soll mit einem Befehel directory-size sehen können in Bytes (bsp: 2048 Bystes)
 * Der Benutzer soll mit einem Befehel file-size sehen können in Bytes (bsp: 2048 Bystes)
+
 
 
 ### Beispiel Anwendung:
