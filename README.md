@@ -15,7 +15,7 @@
 
 * Der Benutzeroberfläche soll über die Befehlszeile (Terminal, CLI) erfolgen,
 mit klaren Befehlen und Rückmeldungen. 
-* Tipp: Stellt euch die was der Benutzer machen könnte wie kann ich das verhindern? 
+* Tipp: Stellt euch, was der Benutzer machen könnte, wie kann ich das verhindern? 
 Unerwartete eingaban etc.
 
 * Empfohlene Libaries:
